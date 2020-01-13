@@ -24,7 +24,6 @@
             "Tylercd100\\Placeholders\\Tests\\": "tests/"
         }
     },
-    "minimum-stability": "dev",  
     "require": {
         "illuminate/support": "^6.0",
         "php": "^7.2"
@@ -34,5 +33,6 @@
         "orchestra/testbench": "^3.2"
     },
     "suggest": {
-    }
+    },
+    "minimum-stability": "dev"
 }
