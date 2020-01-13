@@ -1,4 +1,4 @@
-# Find and Replace placeholder strings in Laravel 5
+# Find and Replace placeholder strings in Laravel 6
 [![Latest Version](https://img.shields.io/github/release/tylercd100/laravel-placeholders.svg?style=flat-square)](https://github.com/tylercd100/laravel-placeholders/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://travis-ci.org/tylercd100/laravel-placeholders.svg?branch=master)](https://travis-ci.org/tylercd100/laravel-placeholders)
