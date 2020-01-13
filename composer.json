@@ -1,5 +1,5 @@
 {
-    "name": "tylercd100/laravel-placeholders",
+    "name": "prosports/laravel-placeholders",
     "description": "Find and replace placeholders in a string",
     "keywords": [
         "laravel",
@@ -25,6 +25,8 @@
         }
     },
     "require": {
+        "illuminate/support": "^6.0",
+        "php": "^7.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.0",
